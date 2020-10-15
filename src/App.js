@@ -1,7 +1,7 @@
 import React from "react";
 
 // REACT-ROUTER-DOM
-import { BrowserRouter, Switch } from "react-router-dom";
+import { HashRouter, Switch } from "react-router-dom";
 
 // PRIVATE ROUTE
 import PrivateRoute from "./routes/PrivateRoute";
@@ -21,12 +21,12 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <BrowserRouter>
+      <HashRouter basename="/">
         <Switch>
           <AfterLoginRoute component={Dashboard} exact path="/" />
           <PrivateRoute component={MapPage} exact path="/map/:userId" />
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

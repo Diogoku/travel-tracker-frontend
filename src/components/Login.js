@@ -49,8 +49,8 @@ function Login() {
       .then(({ data }) => {
         dispatch(setUser(data.user));
         dispatch(setToken(data.token));
-        localStorage.setItem("user", JSON.stringify(data.user));
-        localStorage.setItem("token", JSON.stringify(data.token));
+        sessionStorage.setItem("user", JSON.stringify(data.user));
+        sessionStorage.setItem("token", JSON.stringify(data.token));
       })
       .catch((error) => {
         if (error.response) setRegisterErrors(error.response.data.err);
