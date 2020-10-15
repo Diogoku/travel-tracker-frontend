@@ -45,7 +45,7 @@ function CountryVisitForm() {
           .post(`/country/${user._id}`, { country: country }, headerConfig)
           .then(({ data }) => {
             dispatch(setUser(data.user));
-            sessionStorage.setItem("user", JSON.stringify(data.user));
+            localStorage.setItem("user", JSON.stringify(data.user));
           })
           .catch((error) => {
             if (error.response) setErrorMessage(error.response.data.err);
@@ -58,7 +58,7 @@ function CountryVisitForm() {
           .put(`/country/${user._id}`, { country: country }, headerConfig)
           .then(({ data }) => {
             dispatch(setUser(data.user));
-            sessionStorage.setItem("user", JSON.stringify(data.user));
+            localStorage.setItem("user", JSON.stringify(data.user));
           })
           .catch((error) => {
             if (error.response) setErrorMessage(error.response.data.err);
