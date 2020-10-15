@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/travel-tracker-frontend/static/css/main.13156c54.chunk.css",
-    "main.js": "/travel-tracker-frontend/static/js/main.431c261f.chunk.js",
-    "main.js.map": "/travel-tracker-frontend/static/js/main.431c261f.chunk.js.map",
+    "main.js": "/travel-tracker-frontend/static/js/main.6175c88a.chunk.js",
+    "main.js.map": "/travel-tracker-frontend/static/js/main.6175c88a.chunk.js.map",
     "runtime-main.js": "/travel-tracker-frontend/static/js/runtime-main.bbd642ee.js",
     "runtime-main.js.map": "/travel-tracker-frontend/static/js/runtime-main.bbd642ee.js.map",
     "static/js/2.e1b975ea.chunk.js": "/travel-tracker-frontend/static/js/2.e1b975ea.chunk.js",
     "static/js/2.e1b975ea.chunk.js.map": "/travel-tracker-frontend/static/js/2.e1b975ea.chunk.js.map",
     "index.html": "/travel-tracker-frontend/index.html",
-    "precache-manifest.cd942e6fc0c13d94ed650101d1210c7b.js": "/travel-tracker-frontend/precache-manifest.cd942e6fc0c13d94ed650101d1210c7b.js",
+    "precache-manifest.9e2413743e5847c7e657d715a975186b.js": "/travel-tracker-frontend/precache-manifest.9e2413743e5847c7e657d715a975186b.js",
     "service-worker.js": "/travel-tracker-frontend/service-worker.js",
     "static/css/main.13156c54.chunk.css.map": "/travel-tracker-frontend/static/css/main.13156c54.chunk.css.map",
     "static/js/2.e1b975ea.chunk.js.LICENSE.txt": "/travel-tracker-frontend/static/js/2.e1b975ea.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bbd642ee.js",
     "static/js/2.e1b975ea.chunk.js",
     "static/css/main.13156c54.chunk.css",
-    "static/js/main.431c261f.chunk.js"
+    "static/js/main.6175c88a.chunk.js"
   ]
 }
