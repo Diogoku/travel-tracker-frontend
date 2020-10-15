@@ -1,0 +1,20 @@
+/* ERROR MESSAGES */
+
+.message {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  color: white;
+  font-size: 0.8125rem;
+  margin-top: 3px;
+}
+
+.errorMessage {
+  background-color: #f93d5c;
+}
+
+.successMessage {
+  background-color: #9ed47f;
+}

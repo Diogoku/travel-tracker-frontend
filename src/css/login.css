@@ -1,0 +1,21 @@
+/* LOGIN */
+
+.login {
+  display: flex;
+  width: 100%;
+  height: fit-content;
+}
+
+/* LOGIN FORM */
+
+.login__form {
+  padding: 40px 20px;
+  display: flex;
+  flex: 0.5;
+  flex-direction: column;
+  row-gap: 15px;
+}
+
+.login__form .MuiButton-root {
+  background-color: #6c63ff;
+}

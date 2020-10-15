@@ -1,0 +1,16 @@
+/* MAP PAGE */
+
+.mapPage {
+  display: flex;
+  padding: 20px;
+  column-gap: 10px;
+  height: 70vh;
+}
+
+.mapPage__rightSide {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}

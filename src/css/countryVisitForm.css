@@ -1,0 +1,8 @@
+/* COUNTRY VISIT FORM */
+
+.countryVisitForm {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  color: #2f2e41;
+}
