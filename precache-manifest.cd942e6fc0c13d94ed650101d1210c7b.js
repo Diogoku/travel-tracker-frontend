@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e70abb7d34f6df6e683fb849d95dfabd",
+    "revision": "97b40b93804383100fe5266f7855f8d9",
     "url": "/travel-tracker-frontend/index.html"
   },
   {
-    "revision": "287174efc0fcc9538f54",
+    "revision": "75ff584fa6baa456966b",
     "url": "/travel-tracker-frontend/static/css/main.13156c54.chunk.css"
   },
   {
-    "revision": "6a4d8f7a5932e43ed9a2",
-    "url": "/travel-tracker-frontend/static/js/2.2de86195.chunk.js"
+    "revision": "1d119ce27c422eff526b",
+    "url": "/travel-tracker-frontend/static/js/2.e1b975ea.chunk.js"
   },
   {
     "revision": "4dc64096409ca8bce897af29b30ab117",
-    "url": "/travel-tracker-frontend/static/js/2.2de86195.chunk.js.LICENSE.txt"
+    "url": "/travel-tracker-frontend/static/js/2.e1b975ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "287174efc0fcc9538f54",
-    "url": "/travel-tracker-frontend/static/js/main.51e2f198.chunk.js"
+    "revision": "75ff584fa6baa456966b",
+    "url": "/travel-tracker-frontend/static/js/main.431c261f.chunk.js"
   },
   {
     "revision": "5754c76d3690aaaaf8da",
